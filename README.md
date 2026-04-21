@@ -1,23 +1,22 @@
-# gitmessage-template-es
+# 📝 gitmessage-template-es
 
-Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
+Plantilla en español para **estandarizar mensajes de commit** siguiendo una estructura clara inspirada en Conventional Commits.
 
----
+## Descripción
 
-## 📌 Objetivo
+Incluye recomendaciones sobre título, cuerpo, pie de página, notas y coautoría, además de una plantilla `.gitmessage` reutilizable. Está pensado para mejorar la legibilidad y consistencia del historial Git.
 
-Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
+## Objetivo
 
-## 📁 Revisión recomendada
+Facilitar la adopción de buenos mensajes de commit en español y ayudar a mantener repositorios más ordenados.
 
-Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
+## Uso
 
 ```bash
-git clone git@github.com:Carl0gonzalez/gitmessage-template-es.git
-cd gitmessage-template-es
+git config commit.template .gitmessage
 ```
 
-## 👤 Autor
+## Autor
 
 **Carlo González**
 
